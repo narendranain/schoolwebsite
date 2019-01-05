@@ -1,0 +1,33 @@
+===Database id4932335_sms
+
+== Table structure for table student
+
+|------
+|Column|Type|Null|Default
+|------
+|//**id**//|int(11)|No|
+|rollno|int(10)|No|
+|name|varchar(100)|No|
+|city|varchar(30)|No|
+|pcont|varchar(13)|No|
+|standerd|int(11)|No|
+|image|text|No|
+== Dumping data for table student
+
+|675|10|suresh|indore|785498652|12|DSC_0286.JPG
+|676|100|vijay|ranchi|4545712145|10|IMG-20150201-WA0006.jpg
+|672|2|pragya|indore|454878754|7|apple-logo_318-40184.jpg
+|674|22|fgdfg|dfg|546|5|apple-logo_318-40184.jpg
+|677|101|chetan|ujjain|4571241|12|IMG-20150201-WA0014.jpg
+|678|120|dina|indore|78734636|10|apple-logo_318-40184.jpg
+|679|40056|chetan patidar|indore|9713774614|12|20160927_113833.jpg
+|680|40033|vijay rajput|dhankhedi|7596152075|12|20160927_112739.jpg
+|681|40058|narendra|ranchi|9926972633|12|20171114_183318.jpg
+|682|40022|bbbb|ranchi|87766756|12|15261535903211202281592.jpg
+|683|100|ac|west bengal|9926972633|12|patidarschool3.jpg
+|684|12345|nnnnnn|indore|77474|12|patidarschool2.jpg
+|685|6|vijay singh rajput|ranchi|45454545745|12|aaa.png
+|686|1|swati|ranchi|545665|12|car.jpg
+|687|40042|pg|indore|4566544566|12|apple-logo_318-40184.jpg
+|688|230818|swati|ranchi|2154632|12|B612_20180610_145457_090.jpg
+|689|33|dina|indore|45454544|12|atm.png
